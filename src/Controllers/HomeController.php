@@ -10,4 +10,12 @@ class HomeController extends Controller
     {
         $this->render('index');
     }
+    public function phpinfo()
+    {
+        $this->render('phpinfo');
+    }
+    public function pdf()
+    {
+        $this->render('pdf');
+    }
 }

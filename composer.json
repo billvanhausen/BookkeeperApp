@@ -9,6 +9,7 @@
             "email": "bill@digitalhicks.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
