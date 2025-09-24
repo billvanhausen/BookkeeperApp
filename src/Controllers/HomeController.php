@@ -18,4 +18,15 @@ class HomeController extends Controller
     {
         $this->render('pdf');
     }
+    /*
+    public function showProfile($userId)
+    {
+        // ... (retrieve user data from Model) ...
+        $user = ['name' => 'John Doe', 'email' => 'john@example.com']; 
+
+        $view = new View('views/profile.phtml');
+        $view->assign('user', $user);
+        echo $view->render();
+    }
+    */
 }

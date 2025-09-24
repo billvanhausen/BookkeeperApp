@@ -1,7 +1,7 @@
 <?php
 
 // Site Name
-define('SITE_NAME', 'DigitalH Bookkeeper');
+define('SITE_NAME', 'Bookkeeper');
 
 // App Paths
 define('APP_ROOT', dirname(dirname(__FILE__)."/Bookkeeper")); // Root directory of the application

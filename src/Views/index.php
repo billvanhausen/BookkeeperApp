@@ -2,6 +2,8 @@
 <html>
 <head>
 <title><?php echo SITE_NAME ?></title>
+<link rel="stylesheet" href="../css/bookkeeper.css">
+<script type="text/javascript" src="../js/bookkeeper.js"></script>
 </head>
 <body>
 
